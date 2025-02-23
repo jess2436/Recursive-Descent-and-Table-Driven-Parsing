@@ -1,8 +1,5 @@
 /*
 File: RDP.h
-Authors: Jessica Chen & Shadiya Akhter
-CSC 173 | George Ferguson | Project 2
-Last Modified: 10/07/24
 */
 
 #ifndef _RDP_H_
