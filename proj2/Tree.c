@@ -1,8 +1,5 @@
 /*
 File: Tree.c
-Authors: Jessica Chen & Shadiya Akhter
-CSC 173 | George Ferguson | Project 2
-Last Modified: 10/07/24
 */
 
 #include <stdio.h>
