@@ -1,8 +1,5 @@
 /*
 File: Tree.h
-Authors: Jessica Chen & Shadiya Akhterd
-CSC 173 | George Ferguson | Project 2
-Last Modified: 10/07/24
 */
 
 #ifndef _TREE_H_
