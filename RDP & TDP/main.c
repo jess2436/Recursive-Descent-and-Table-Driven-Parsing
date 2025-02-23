@@ -1,7 +1,5 @@
 /*
 File: main.c
-Authors: Jessica Chen & Shadiya Akhter
-CSC 173 | George Ferguson | Project 2
 Last Modified: 10/07/24
 */
 
@@ -15,8 +13,6 @@ Last Modified: 10/07/24
 #include "TDP.h"
 
 int main (int argc, char *argv[]){
-
-    printf("C173 Project 2 by Jessica Chen & Shadiya Akhter\n");
 
     int **parse_table = create_parse_table();
 
